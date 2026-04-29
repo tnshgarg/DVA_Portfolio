@@ -1,4 +1,3 @@
+dist/
 node_modules/
 about.txt
-package-lock.json
-dist/
